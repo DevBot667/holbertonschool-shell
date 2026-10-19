@@ -1,2 +1,6 @@
+# holbertonschool-shell
+
 Repository for the Holberton School shell projects.
-It contains the exercises of the "Shell, basics" project, in the `basics` directory.
+
+- `basics`: exercises of the "Shell, basics" project.
+- `permissions`: exercises of the "Shell, permissions" project.
