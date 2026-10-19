@@ -26,3 +26,4 @@
 - `23-empty_casks`: finds all empty files and directories in the current directory and its sub-directories, and displays only their names, one per line.
 - `24-gifs`: lists all the regular files with a .gif extension in the current directory and its sub-directories, without their extensions, sorted by byte value case-insensitively, one per line.
 - `25-acrostic`: decodes acrostics that use the first letter of each line of the input.
+- `26-the_biggest_fan`: parses web server logs in TSV format from the input and displays the 11 hosts or IP addresses that made the most requests, most active first.
