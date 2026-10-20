@@ -16,3 +16,4 @@
 - `13-print_float`: prints the number stored in the environment variable NUM with two decimal places, followed by a new line.
 - `14-decimal_to_hexadecimal`: converts the number in base 10 stored in the environment variable DECIMAL to base 16 and displays it, followed by a new line.
 - `15-rot13`: encodes and decodes text using the ROT13 encryption, reading from standard input and printing the result to standard output.
+- `16-odd`: prints every other line from standard input, starting with the first line.
